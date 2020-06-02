@@ -107,7 +107,7 @@
       <bool>false</bool>
      </property>
      <property name="text">
-      <string>Use vector tiles (requires QGIS 3.14+)</string>
+      <string>Use vector tiles by default (requires QGIS 3.14+)</string>
      </property>
     </widget>
    </item>
